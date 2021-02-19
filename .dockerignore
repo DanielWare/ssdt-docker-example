@@ -1,0 +1,10 @@
+**/*.dbmdl
+**/bin
+**/obj
+**/*.user
+**/*.jfm
+*.yaml
+**/output
+Dockerfile
+**/.idea
+**/.vs
